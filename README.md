@@ -32,3 +32,8 @@
 #### Implementation
 - [구현알고리즘](Implementation/구현알고리즘.md)
 - [01 상하좌우](#)
+
+## Reference
+- 이코테 : https://youtu.be/2zjoKjt97vQ
+- 코드업 : https://codeup.kr/problemsetsol.php?psid=1
+- 리플릿 : https://replit.com/languages/python3
